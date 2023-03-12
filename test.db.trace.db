@@ -1,0 +1,3 @@
+2023-03-12 18:45:45 jdbc[14]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "SELECT * FROM NOTES TASKS [*]TASKS"; SQL statement:
+SELECT * FROM NOTES TASKS TASKS [42000-214]
